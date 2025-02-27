@@ -1,6 +1,6 @@
 # data-science-project
 
-The project consists of 10 files where the "Data_Science_Project.ipynb" is the main one. The five .xls files represent the data, where the .pdf document includes information about the different attributes every data table has.
+The project consists of 10 files where the "Data_Science_Project.ipynb" is the main one. The five .csv files represent the data, where the .pdf document includes information about the different attributes every data table has.
 
 Aims and objectives
 
